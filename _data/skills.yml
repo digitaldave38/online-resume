@@ -1,18 +1,36 @@
 - skill:
-  name: Python & Django
-  level: 98%
+  name: R
+  level: 80%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: Ruby on Rails
-  level: 85%
-- skill:
-  name: Sketch & Photoshop
+  name: SQL
   level: 60%
+- skill:
+  name: Netica
+  level: 60%
+- skill:
+  name: LaTex
+  level: 55%
+- skill:
+  name: STATA
+  level: 55%
+- skill:
+  name: Python
+  level: 50%
+- skill:
+  name: git
+  level: 40%
+- skill:
+  name: Apache Hadoop & Spark
+  level: 40%
+- skill:
+  name: FORTRAN
+  level: 35%
+- skill:
+  name: JAVA
+  level: 35%
+- skill:
+  name: PERL
+  level: 15%
+- skill:
+  name: TABLEAU
+  level: 15%

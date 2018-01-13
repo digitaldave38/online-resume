@@ -1,24 +1,15 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "A list of academic and recreational projects."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Master's Thesis
+  link: 'http://oaktrust.library.tamu.edu/handle/1969.1/158034'
+  tagline: "An Analysis on the Correlates of Nuclear Proliferation and Nuclear Energy."
 - project:
-  title: DevStudio
+  title: Pinthouse Pizza
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Providing analytics support to a local Austin restaurant/brew-pub."
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-- project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: collegeballR
+  link: "https://github.com/meysubb/collegeballR"
+  tagline: "R package providing easy access to college sports (NCAA) data"
