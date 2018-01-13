@@ -14,7 +14,7 @@ baseurl: '/online-resume' #change it according to your repository name
 name: Meyappan Subbaiah
 tagline: Business Analytics Student
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Current Business Analytics graduate student at the McCombs School of Business at the University of Texas. '
+summary: 'Current Business Analytics graduate student at the McCombs School of Business at the University of Texas. [TO BE FINISHED] '
 
 #sidebar links
 email: meysubb@gmail.com
