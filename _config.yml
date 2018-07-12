@@ -12,10 +12,9 @@ baseurl: '/online-resume' #change it according to your repository name
 
 #Profile information
 name: Meyappan Subbaiah
-tagline: Business Analytics Student
+tagline: Data Scientist
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Current Business Analytics graduate student at the McCombs School of Business at the University of Texas. [TO BE FINISHED] '
-
+summary: Nuclear Engineer turned Data Scientist. Interested in Sports Analytics, Data Analytics, and everything Nuclear.
 #sidebar links
 email: meysubb@gmail.com
 phone:
