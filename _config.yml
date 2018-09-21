@@ -11,21 +11,16 @@ baseurl: '/online-resume' #change it according to your repository name
 #style: styles-6
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+name: David Hibbits
+tagline: Devops Engineer
+pic: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'I am an enthusiastic technologist that’s intrested in everything from blockchain,security to artificial intelligence. I started out in electronics and engineering working as a service bench engineer for IBM before moving into area of design and implementation of computer systems after spending more than 15 years working with windows server, I decided to move into the area devops where I have worked on various projects over the years I am an active learner that embraces change as below highlights my current skill set is varried and will adapt as needed. I used this Jekyll template as I wanted a way vizualize my skills to potential employers '
+
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: offers@outlook.com
 website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+linkedin: dhibbitts
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker

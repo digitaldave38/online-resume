@@ -1,28 +1,10 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Devops Engineer
+  time: 2017 - Present
+  company: Financial sector, Cheshire
+  details: "Working with business teams to create Infrastructure as code and create the management of infrastructure (networks, virtual machines, load balancer's and connection topology) in a descriptive model for our cloud offerings by using versioning of code and allowing the delivery of immutable infrastructure utilizing tools such as Hashicorp's Terraform and Chef"
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
-- experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Sysops Engineer
+  time: 2013 - 2017
+  company: Financial sector, Cheshire
+  details: "The migration of legacy infrastructure and services to strategic supported platforms by working with technical architects to move away from typical legacy N-Tier architecture to cloud based solutions by dlivering CI/CD Jenkins pipeline that allowed the rapid deployment of windows server infrastructure utilizing vagrant, nexus, git and chef cookbooks to deploy immutable images rapidly"
